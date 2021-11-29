@@ -6,9 +6,14 @@
   "module": "./lib/esm/index.js",
   "author": "Dr. Daniel M. Ibrahim, PharmD",
   "license": "MIT",
+  "homepage": "https://github.com/ibrahidm/memory-monitor/#README",
   "files": [
     "lib/"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibrahidm/memory-monitor.git"
+  },
   "scripts": {
     "build": "yarn clean && npx tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
     "clean": "rm -rf lib",

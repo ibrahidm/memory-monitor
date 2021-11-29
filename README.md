@@ -1,5 +1,15 @@
-# Memory Monitor
+# Memory Monitor <!-- omit in toc -->
+
+## Description <!-- omit in toc -->
 **Memory Monitor** is a simple, bare-bones package for monitoring NodeJS memory usage using the console. 
+
+## Table of Contents <!-- omit in toc -->
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Arguments](#arguments)
+- [Contribute](#contribute)
+- [Support](#support)
 
 ## Installation
 **Memory Monitor** can be installed using the package manager of your choosing. The example command below uses [yarn](https://yarnpkg.com/).
